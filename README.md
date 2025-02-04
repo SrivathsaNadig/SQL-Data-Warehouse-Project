@@ -1,6 +1,6 @@
-#PORTFOLIO PROJECT : Data Warehouse And Analytics
+# PORTFOLIO PROJECT : Data Warehouse And Analytics
 This is a project I am working on to develop my portfolio.
-a
+
 Building a modern data warehouse with SQL Server.
 I was able to follow along the SQL commands that were explained easily.
 
